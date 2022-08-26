@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @talisanwi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+# 👋 oi eu sou @talisanwi
+##  👀 estou esteressado em programação
+- 🌱 atualmente estou aprendendo
+- 💞️ e tentando colaborar aprender
 - 📫 How to reach me ...<header>
     <h1 class="titulo-principal">Barbearia Alura</h1>
 </header>
